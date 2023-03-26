@@ -21,3 +21,4 @@ alienString="SFRCe24wdF9zb19oNHJkX3RvX3VuZDNyc3Q0bmR9="
 humanString=base64.b64decode(alienString)
 print(humanString)
 ```
+## HTB{n0t_so_h4rd_to_und3rst4nd}
