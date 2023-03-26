@@ -3,8 +3,8 @@ As Pandora set out on her quest to find the ancient alien relic, she knew that t
 
 # Thoughts 
 Provided with a .ows and a .csv I downloaded Orange (https://orangedatamining.com/download/) and the workshop file provided a file and a scatter polt, one you connected the data to the scatter plot and set axis x to Feature 1 and axis y to Feature 2 you can view the flag.
-![Reconfiguration setup](/screencaps/ML_orange_setup.jpeg)
+![Reconfiguration setup](/screencaps/ML_orange_setup.jpg)
 
 # Solve
-![Reconfiguration flag](/screencaps/ML_orange.jpeg)
+![Reconfiguration flag](/screencaps/ML_orange.jpg)
 ## HTB{sc4tter_pl0ts_4_th3_w1n}
