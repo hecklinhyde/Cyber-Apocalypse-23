@@ -10,7 +10,7 @@ import re
 import requests as req
 
 for i in range(1001):
-	resp=req.get("http://104.248.169.177:32444/flag")
+	resp=req.get("http://{IP}/flag")
 	print(resp.text)
 	print(i)
 	if 1==1000:
